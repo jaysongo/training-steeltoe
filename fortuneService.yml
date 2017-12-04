@@ -1,2 +1,6 @@
 fortune:
   randomFortune2: from config, in cloud
+
+eureka:
+  instance:
+    port: 5000
