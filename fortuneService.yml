@@ -1,2 +1,3 @@
-Fortune:
-  RandomFortune2: "from config"
+---
+fortune:
+  randomFortune2: "from config"
