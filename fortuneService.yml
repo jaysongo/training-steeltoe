@@ -3,4 +3,5 @@ fortune:
 
 eureka:
   instance:
+    hostName: localhost
     port: 5000
