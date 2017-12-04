@@ -4,7 +4,7 @@ logging:
       default: Debug
 fortuneService:
   scheme: http
-  address: fortuneService
+  address: fortuneservice
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
 eureka:
