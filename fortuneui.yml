@@ -1,2 +1,6 @@
-
+fortuneService:
+  scheme: http
+  address: fortuneservice-nonlegal-ataghan.apps.selma.cf-app.com
+  randomFortunePath: api/fortunes/random
+  allFortunesPath: api/fortunes/all
 
